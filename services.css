@@ -1,0 +1,44 @@
+body{
+    /* border: black 1px solid; */
+    padding: auto;
+    /* box-shadow: black 0px 1px 5px; */
+    height: 700px;
+    margin-top: 20px;
+    margin-left: 90px;
+    margin-right: 90px;
+    background-color: aliceblue;
+    padding-right: 10px;
+}
+.services{
+    text-align: center;
+}
+/* .nesi{ 
+    border: black 1px solid;
+    background-color: white;
+    height: 120px ; 
+    border-radius: 9%;
+    overflow: hidden;
+    margin-bottom: 100px; 
+    padding-block: 30px; 
+    padding-right: 300px;
+    margin-right: 800px;
+    text-overflow: 20px;
+    width: 20%;
+}
+.Ledo{
+    border: black 1px solid;
+    background-color: white;
+    height: 120px ; 
+    border-radius: 9%;
+    overflow: hidden;
+    margin-bottom: 100px; 
+    padding-block: 30px;
+    padding-right: 300px; 
+    margin-right: 800px;
+    text-overflow: 20px;
+    width: 20%;
+}
+.services{
+    text-align: center;
+}
+ */ */
